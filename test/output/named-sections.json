@@ -1,0 +1,7 @@
+[{ 
+	"content": "This is an excerpt.\n\nTt does not contain too much text.", 
+	"name": "first section" 
+}, { 
+	"content": "This is the actual content.\n\nIt has a bunch of stuff in it.", 
+	"name": "second section" 
+}]

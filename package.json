@@ -1,0 +1,15 @@
+{
+  "name": "markdown-sections",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:marceljs/markdown-sections.git",
+  "author": "Dan Burzo <danburzo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fast-glob": "^2.2.2",
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  }
+}
